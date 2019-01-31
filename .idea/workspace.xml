@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fe1e504-d682-48bf-924d-8d2e6fba24e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Class3/class3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class3/Intro-to-sklearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Class3/Intro-to-sklearn.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +13,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Class2/tic-tac-toe_RH.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,12 +35,12 @@
       <list>
         <option value="$PROJECT_DIR$/Class1/tic-tac-toe_RH.py" />
         <option value="$PROJECT_DIR$/Class2/tic-tac-toe_RH.sql" />
+        <option value="$PROJECT_DIR$/Class3/class3.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="43" />
+    <option name="y" value="23" />
     <option name="width" value="1260" />
     <option name="height" value="671" />
   </component>
@@ -66,6 +70,11 @@
               <item name="Stats-404-W19-Statistical-Computing" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stats-404-W19-Statistical-Computing" type="462c0819:PsiDirectoryNode" />
               <item name="Class2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stats-404-W19-Statistical-Computing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stats-404-W19-Statistical-Computing" type="462c0819:PsiDirectoryNode" />
+              <item name="Class3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -105,12 +114,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="43" width="1260" height="671" extended-state="0" />
+    <frame x="0" y="23" width="1260" height="671" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2865353" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30131364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Inspection Results" visible="true" weight="0.3298791" />
+      <window_info id="Project Explorer" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -119,9 +130,12 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3298791" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3298791" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="11" visible="true" weight="0.3298791" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="DB Execution Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -130,9 +144,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Intro-to-Python.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -143,11 +154,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class2/tic-tac-toe_RH.sql">
+    <entry file="file://$PROJECT_DIR$/Class2/tic-tac-toe_RH.sql" />
+    <entry file="file://$PROJECT_DIR$/Class3/Intro-to-sklearn.slides.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore~a46f0462d90574c3c433dfeb418da3d8abce1261">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class3/class3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#25#56#0" expanded="true" />
+          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class3/Intro-to-sklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91" />
       </provider>
     </entry>
   </component>
