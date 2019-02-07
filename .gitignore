@@ -10,4 +10,8 @@ chinook.sql
 chinook.zip
 *.joblib
 Class3/.ipynb_checkpoints
+<<<<<<< HEAD
 >>>>>>> e3ff096ea562b93b99af7189615e3fec29ff7297
+=======
+Class4/.ipynb_checkpoints
+>>>>>>> 3b3acf251b405c966ecd2d31efd8c251ddaeb046
