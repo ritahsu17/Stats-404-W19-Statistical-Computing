@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6fe1e504-d682-48bf-924d-8d2e6fba24e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class2/Intro-to-pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Class2/Intro-to-pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class4/Fashion-MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Class4/Fashion-MNIST.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,28 +53,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="Stats-404-W19-Statistical-Computing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stats-404-W19-Statistical-Computing" type="462c0819:PsiDirectoryNode" />
+              <item name="Stats-404-W19-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stats-404-W19-repo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Stats-404-W19-Statistical-Computing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stats-404-W19-Statistical-Computing" type="462c0819:PsiDirectoryNode" />
-              <item name="Class0-Intro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Stats-404-W19-Statistical-Computing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stats-404-W19-Statistical-Computing" type="462c0819:PsiDirectoryNode" />
-              <item name="Class1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Stats-404-W19-Statistical-Computing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stats-404-W19-Statistical-Computing" type="462c0819:PsiDirectoryNode" />
-              <item name="Class2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Stats-404-W19-Statistical-Computing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stats-404-W19-Statistical-Computing" type="462c0819:PsiDirectoryNode" />
+              <item name="Stats-404-W19-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stats-404-W19-repo" type="462c0819:PsiDirectoryNode" />
               <item name="Class3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stats-404-W19-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stats-404-W19-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="Class4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stats-404-W19-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stats-404-W19-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="Envs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,9 +109,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="711" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="711" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31098545" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32552505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Project Explorer" order="3" />
@@ -175,6 +172,13 @@
     <entry file="file://$PROJECT_DIR$/Class3/Intro-to-sklearn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-91" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class3/Intro-to-sklearn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="11" />
+        </state>
       </provider>
     </entry>
   </component>
