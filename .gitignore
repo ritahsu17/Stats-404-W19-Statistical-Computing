@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Envs
-=======
 .idea
 Class0-Intro/.ipynb_checkpoints
 Class1/.ipynb_checkpoints
@@ -10,12 +8,6 @@ chinook.sql
 chinook.zip
 *.joblib
 Class3/.ipynb_checkpoints
-<<<<<<< HEAD
->>>>>>> e3ff096ea562b93b99af7189615e3fec29ff7297
-=======
 Class4/.ipynb_checkpoints
-<<<<<<< HEAD
->>>>>>> 3b3acf251b405c966ecd2d31efd8c251ddaeb046
-=======
 Class5/.ipynb_checkpoints
->>>>>>> f8dc038746d9e8b290c5c02d62c142b506c9e372
+.ipynb_checkpoints
